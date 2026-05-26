@@ -1,6 +1,8 @@
+<img src="assets/abhishek-photo.png" width="145" align="right" alt="Abhishek Aylaveni" />
+
 # Abhishek Aylaveni
 
-Embedded Systems and IoT engineering student at ESIGELEC, Rouen. I focus on embedded firmware, sensor integration, wireless communication, real-time systems and electronic validation.
+Embedded Systems and IoT engineering student at ESIGELEC, Rouen. I focus on embedded firmware, sensor integration, wireless communication, real-time systems, electronic validation, and turning prototypes into documented engineering projects.
 
 ## Internship Target
 
@@ -54,7 +56,7 @@ I am looking for a 4-6 month engineering internship in France in:
 ## Current Goals
 
 - Strengthen firmware development in C on STM32 and ESP32.
-- Build cleaner public repositories with documentation, wiring diagrams and test notes.
+- Build cleaner public repositories with documentation, wiring diagrams, test notes and reproducible project structure.
 - Contribute to embedded systems, IoT and validation projects in an engineering team.
 
 ## Contact
